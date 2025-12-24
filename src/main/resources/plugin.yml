@@ -1,0 +1,7 @@
+name: MaceShock
+version: '1.0-SNAPSHOT'
+main: wtf.flonxi.maceShock.MaceShock
+api-version: '1.21'
+author: Flonxi
+description: Adds massive AOE knockback to the Mace smash attack.
+folia-supported: true

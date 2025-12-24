@@ -1,0 +1,13 @@
+min-fall-distance: 1.5
+radius: 4.0
+knockback-strength: 1.2
+enable-particles: true
+enable-sound: true
+
+aoe-damage:
+  enabled: true
+  amount: 5.0
+
+stun-effect:
+  enabled: true
+  duration-ticks: 60
